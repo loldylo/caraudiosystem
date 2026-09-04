@@ -17,6 +17,12 @@
   }
 }
 
+.app {
+  width: min(1100px, 90%);
+  margin: 0 auto;
+  padding: 40px 0 80x
+}
+
 .hero {
   position: relative;
 
